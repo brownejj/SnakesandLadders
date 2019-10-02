@@ -5,5 +5,6 @@ public class Snake {
     }
 
 
-    System.out.println("Hallo Dave!")
+    System.out.println("Hallo Dave!");
+    System.out.println("Hallooooooooo");
 }
